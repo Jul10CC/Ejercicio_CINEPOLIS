@@ -1,0 +1,104 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = APP_CINEPOLIS
+build_property.RootNamespace = APP_CINEPOLIS
+build_property.ProjectDir = E:\Intecap\Cuarto Modulo\APP_CINEPOLIS\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\Intecap\Cuarto Modulo\APP_CINEPOLIS
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/Intecap/Cuarto Modulo/APP_CINEPOLIS/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intecap/Cuarto Modulo/APP_CINEPOLIS/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intecap/Cuarto Modulo/APP_CINEPOLIS/Pages/Paginas/Clientes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnaW5hc1xDbGllbnRlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intecap/Cuarto Modulo/APP_CINEPOLIS/Pages/Paginas/Clientes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnaW5hc1xDbGllbnRlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intecap/Cuarto Modulo/APP_CINEPOLIS/Pages/Paginas/Clientes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnaW5hc1xDbGllbnRlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intecap/Cuarto Modulo/APP_CINEPOLIS/Pages/Paginas/Clientes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnaW5hc1xDbGllbnRlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intecap/Cuarto Modulo/APP_CINEPOLIS/Pages/Paginas/Clientes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnaW5hc1xDbGllbnRlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intecap/Cuarto Modulo/APP_CINEPOLIS/Pages/Paginas/Peliculas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnaW5hc1xQZWxpY3VsYXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intecap/Cuarto Modulo/APP_CINEPOLIS/Pages/Paginas/Peliculas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnaW5hc1xQZWxpY3VsYXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intecap/Cuarto Modulo/APP_CINEPOLIS/Pages/Paginas/Peliculas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnaW5hc1xQZWxpY3VsYXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intecap/Cuarto Modulo/APP_CINEPOLIS/Pages/Paginas/Peliculas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnaW5hc1xQZWxpY3VsYXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intecap/Cuarto Modulo/APP_CINEPOLIS/Pages/Paginas/Peliculas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnaW5hc1xQZWxpY3VsYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intecap/Cuarto Modulo/APP_CINEPOLIS/Pages/Paginas/Salas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnaW5hc1xTYWxhc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intecap/Cuarto Modulo/APP_CINEPOLIS/Pages/Paginas/Salas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnaW5hc1xTYWxhc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intecap/Cuarto Modulo/APP_CINEPOLIS/Pages/Paginas/Salas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnaW5hc1xTYWxhc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intecap/Cuarto Modulo/APP_CINEPOLIS/Pages/Paginas/Salas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnaW5hc1xTYWxhc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intecap/Cuarto Modulo/APP_CINEPOLIS/Pages/Paginas/Salas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnaW5hc1xTYWxhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intecap/Cuarto Modulo/APP_CINEPOLIS/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intecap/Cuarto Modulo/APP_CINEPOLIS/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intecap/Cuarto Modulo/APP_CINEPOLIS/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intecap/Cuarto Modulo/APP_CINEPOLIS/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intecap/Cuarto Modulo/APP_CINEPOLIS/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-olptfa5i34

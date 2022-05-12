@@ -1,0 +1,54 @@
+﻿@page
+@model APP_CINEPOLIS.Pages.Paginas.Salas.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Sala[0].Tipo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Sala[0].Precio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Sala[0].Pelicula.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Sala[0].Cliente.Nombre)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Sala) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tipo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Precio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pelicula.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cliente.Nombre)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.ID">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.ID">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.ID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
